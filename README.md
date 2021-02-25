@@ -5,7 +5,7 @@
 <img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://github.com/mmp-mmro-team/mmp_mmro_spring_2021/blob/main/trash/kernel_trick.jpg" height=200pt>
 </p>
 
-**Курс сдается через систему anytask**
+**Курс сдается через систему [anytask](https://anytask.org/course/807)**
 
 На семинары и работу ассистентов можно оставить отзыв: [[анонимно без регистрации и смс](https://docs.google.com/forms/d/e/1FAIpQLSeW89-GCnceWDvd439vqZBY69-oSUzo-UWtL5aq-fCnOWOzow/viewform)]
 
@@ -40,5 +40,5 @@
 
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
-| 18 февраля  | Семинар 1  | <ul><li>Имплементации бустинга</li></ul> | [Ноутбук](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem01-pandas-mmp.ipynb) | [ДЗ на разведочный анализ данных](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/homework-practice/hw-practice-1.ipynb) |
+| 18 февраля  | Семинар 1  | <ul><li>Имплементации бустинга</li></ul> | <ul><li>[Семинар]()</li><li>[Ноутбук, базовый](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part2.ipynb)</li><li>[Визуализация](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)</li><li>[Ноутбук, продвинутый](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem10-gbm.ipynb)</li><li>[Семинар к ODT](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part1.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 25 февраля  | Семинар 2  | <ul><li>Решение задач на байесовский подход</li></ul> | [Семинар](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem02_knn.pdf) | ¯\\\_(ツ)\_/¯ |
